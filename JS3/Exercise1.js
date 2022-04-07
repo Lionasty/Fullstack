@@ -1,22 +1,19 @@
 var object1 = {
-    Name: "Boufidjeline",
-    Surname: "Youcef",
+    Name: "Lionasty",
     Matricule: "123456",
     Level: 2,
     Hobbies: ['Doggo'],
     Skills: ['C/C++', 'JavaScript']
 }
 var object2 = {
-    Name: "Boufidjeline",
-    Surname: "Youcef",
+    Name: "Lionasty",
     Matricule: "123456",
     Level: 2,
     Hobbies: ['Doggo'],
     Skills: ['C/C++', 'JavaScript']
 }
 var object3 = {
-    Name: "Bennouna",
-    Surname: "Mehdi",
+    Name: "Azpect",
     Matricule: "654321",
     Level: 2,
     Hobbies: ['PC'],
